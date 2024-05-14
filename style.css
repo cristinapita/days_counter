@@ -261,7 +261,7 @@ font-size: 1.2em;
 
 
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 300px) {
   .countdown__container {
     grid-template-columns: repeat(2, 1fr);
   }
