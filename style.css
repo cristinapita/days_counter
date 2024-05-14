@@ -260,8 +260,14 @@ font-size: 1.2em;
 
 
 
-@media screen and (max-width: 600px) {
+
+@media screen and (max-width: 500px) {
   .countdown__container {
     grid-template-columns: repeat(2, 1fr);
   }
+  iframe{
+    height: 500px;
+  }
+
+
 }
